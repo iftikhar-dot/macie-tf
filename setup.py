@@ -1,5 +1,5 @@
 #pip3 install boto3 --user
-import boto3
+#import boto3
 import json
 
 def lambda_handler(context, event):
