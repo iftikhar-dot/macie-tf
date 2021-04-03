@@ -1,4 +1,4 @@
-pip3 install boto
+pip3 install boto3 --user
 import boto3
 import json
 
